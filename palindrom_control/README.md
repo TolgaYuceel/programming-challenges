@@ -1,0 +1,2 @@
+# Palindrom Control
+- PROBLEM: A palindrome is a word, number or phrase that sounds the same backwards. For example, "madam", "level" and "12321" are palindromic wordsYou need to write a JavaScript function that checks if a string is a palindrome.
