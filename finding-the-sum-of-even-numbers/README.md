@@ -1,0 +1,2 @@
+# Finding the sum of even numbers.
+- PROBLEM: You need to write a function that finds the sum of even numbers in a given array. For example, for the array [1, 5, 3, 9, 2, 8], your function should return 10 since the even numbers are 2 and 8.
