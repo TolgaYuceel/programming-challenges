@@ -1,0 +1,2 @@
+# Calculate Even Sum Problem
+- PROBLEM: We want you to write an algorithm that finds even numbers in an array and calculates their sum. Your algorithm should take an array of numbers as input and return the sum of the array of even numbers as output.
